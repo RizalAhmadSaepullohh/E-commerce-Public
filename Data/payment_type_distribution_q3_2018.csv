@@ -1,0 +1,6 @@
+payment_type,percentage
+boleto,0.16329713571370433
+credit_card,0.7649369870562255
+debit_card,0.04340654747743797
+not_defined,0.0
+voucher,0.028359329752632122
