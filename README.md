@@ -1,5 +1,5 @@
 
-```markdown
+
 # E-Commerce Dashboard
 
 This dashboard provides visual insights into key aspects of an e-commerce dataset, including total revenue by quarter, city-specific customer statistics, and product category review scores. It features interactive filters to enhance data exploration.
