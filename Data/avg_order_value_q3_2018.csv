@@ -1,0 +1,6 @@
+payment_type,payment_value
+boleto,144.36112331081083
+credit_card,164.40691786447638
+debit_card,175.08190751445085
+not_defined,0.0
+voucher,100.45275803722504
